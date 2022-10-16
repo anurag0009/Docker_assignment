@@ -1,4 +1,4 @@
-this docker assigment contain hello world nad fastapi hello world
+this docker assigment contain hello world and fastapi hello world
 
 
 
